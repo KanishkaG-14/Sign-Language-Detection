@@ -12,7 +12,11 @@ The system leverages a custom CNN architecture built with Keras and TensorFlow, 
 💡 Key Features
 
 > Real-time hand gesture recognition using webcam
+
 > CNN-based model trained on grayscale gesture images
+
 > Preprocessing and augmentation for improved accuracy
+
 > Output display of classified gesture labels
+
 > Modular code structure for easy experimentation and deployment
